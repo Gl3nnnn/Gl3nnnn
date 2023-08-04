@@ -7,7 +7,7 @@ I'm a passionate coder from Iloilo City in the Philippines. I'm deeply intereste
 - 🌱 I’m always learning, and my focus is on improving my proficiency in languages like Python, JavaScript, and Java. I'm also delving into web development, data science, and cloud technologies.
 - 👯 I’m looking to collaborate on open-source projects that make a positive impact on society or simply any interesting projects where I can contribute and learn from other talented developers.
 - 💬 Ask me about anything related to coding, algorithms, data structures, or even tips for beginners starting their coding journey. I'd be happy to help and share my knowledge!
-- 📫 You can reach me through my email patrickcabansag5@gmail.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile/).
+- 📫 You can reach me through my email patrickcabansag5@gmail.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/glenpatrick/).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: When I'm not coding, you can find me immersed in gaming worlds, exploring virtual realms, and challenging myself in different gaming adventures!
 
