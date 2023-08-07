@@ -1,7 +1,34 @@
-### Hi there, I'm Glenn Patrick Cabansag! 👋
+<div align="center">
 
+# Hi there, I'm Glenn Patrick Cabansag! 👋
 
 I'm a passionate coder from Iloilo City in the Philippines. I'm deeply interested in all things related to software development and building innovative applications. Learning coding has been an exciting journey for me, and I'm constantly exploring new technologies and programming languages to expand my skills.
+
+<br>
+
+![GitHub Followers](https://img.shields.io/github/followers/Gl3nnnn?style=social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/glenpatrick/)
+[![Facebook](https://img.shields.io/badge/Facebook-Visit-3b5998)](https://www.facebook.com/Gl3nQt/)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Gl3nnnn&color=blue)
+![Last Commit](https://img.shields.io/github/last-commit/Gl3nnnn/Gl3nnnn)
+
+<br>
+
+**Languages and Tools:**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+<br>
 
 - 🔭 I’m currently working on various coding projects to sharpen my problem-solving abilities and enhance my understanding of different programming paradigms.
 - 🌱 I’m always learning, and my focus is on improving my proficiency in languages like Python, JavaScript, and Java. I'm also delving into web development, data science, and cloud technologies.
@@ -11,25 +38,4 @@ I'm a passionate coder from Iloilo City in the Philippines. I'm deeply intereste
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: When I'm not coding, you can find me immersed in gaming worlds, exploring virtual realms, and challenging myself in different gaming adventures!
 
-### Connect with me:
-
-[![GitHub](https://img.shields.io/github/followers/Gl3nnnn?style=social)](https://github.com/Gl3nnnn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/glenpatrick/)
-[![Facebook](https://img.shields.io/badge/Facebook-Visit-3b5998)](https://www.facebook.com/Gl3nQt/)
-
-
-### Languages and Tools:
-
-- Python: My go-to language for versatile and powerful coding projects.
-- Java: I enjoy building robust applications and exploring the world of Java.
-- JavaScript: As a web developer, I leverage JavaScript to create interactive and dynamic web experiences.
-- HTML/CSS: The foundation of any web page, I use HTML and CSS to structure and style my web projects.
-- React: I'm a fan of React and its component-based approach to building user interfaces.
-- Git: Essential for version control and collaborating with other developers.
-- Visual Studio Code: My preferred code editor for its flexibility and vast extension ecosystem.
-
-
-### GitHub Stats:
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gl3nnnn&show_icons=true&count_private=true&hide=prs&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gl3nnnn&layout=compact&theme=radical)
+</div>
