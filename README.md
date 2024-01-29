@@ -9,7 +9,7 @@ I'm a passionate coder from Iloilo City in the Philippines. I'm deeply intereste
 ![GitHub Followers](https://img.shields.io/github/followers/Gl3nnnn?style=social)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/glenpatrick/)
 [![Facebook](https://img.shields.io/badge/Facebook-Visit-3b5998)](https://www.facebook.com/Gl3nQt/)
-
+ 
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gl3nnnn&color=blue)
