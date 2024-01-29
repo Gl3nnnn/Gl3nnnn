@@ -13,7 +13,7 @@ I'm a passionate coder from Iloilo City in the Philippines. I'm deeply intereste
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gl3nnnn&color=blue)
-![Last Commit](https://img.shields.io/github/last-commit/Gl3nnnn/Gl3nnnn)
+
 
 <br>
 
