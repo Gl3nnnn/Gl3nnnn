@@ -60,11 +60,4 @@ I’m always tinkering with code, gaming, or dreaming up my next big project. Wa
 </div>
 
 
-## 🎡 Dynamic Flair: GitHub Action Magic
-Check out this custom animation badge powered by a GitHub Action I’ve set up for you! It updates daily with a random gaming quote—because why not?
 
-![Glenn's Gaming Quote](https://github.com/Gl3nnnn/Gl3nnnn/actions/workflows/quote-badge.yml/badge.svg)
-
-*“It’s dangerous to go alone! Take this.”* — The Legend of Zelda (example)
-
----
