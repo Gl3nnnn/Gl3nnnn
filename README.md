@@ -2,7 +2,7 @@
 
 # 🌩️⚡️ Yo, I’m Glenn Patrick Cabansag! 💾🕹️  
 
-<img src="https://media.giphy.com/media/26xBzdJxxZ0vG8v7W/giphy.gif" width="60"> *Code Wizard & Gaming Titan from Iloilo City, Philippines* <img src="https://media.giphy.com/media/26xBzdJxxZ0vG8v7W/giphy.gif" width="60">
+<img src="https://github.com/Gl3nnnn/Gl3nnnn/blob/main/giphy.gif" width="60"> *Code Wizard & Gaming Titan from Iloilo City, Philippines* <img src="https://github.com/Gl3nnnn/Gl3nnnn/blob/main/giphy.gif" width="60">
 
 Hey, you’ve landed in my digital lair! I’m a coding fiend from Iloilo City, weaving apps and conquering tech frontiers like a boss. When I’m not smashing bugs or mastering Python, I’m raiding virtual worlds and racking up wins. Buckle up—this README’s packed with skills, stats, and pure electric vibes!
 
@@ -66,7 +66,7 @@ Hey, you’ve landed in my digital lair! I’m a coding fiend from Iloilo City, 
 I’m coding up storms, gaming like a champ, and plotting world domination—one app at a time. Wanna join the chaos? Follow me, drop a line, or raid my repos below—this is where the magic explodes!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dugJQUIa4HZUVlWJDQ/giphy.gif" width="300" alt="Cyber Hacking Animation"/>
+  <img src="https://github.com/Gl3nnnn/Gl3nnnn/blob/main/aa.gif" width="300" alt="Cyber Hacking Animation"/>
   <p><strong>“Code’s my sword, games my shield—bring it on!”</strong></p>
 </div>
 
