@@ -46,7 +46,7 @@
 <!-- Stats and Trophies Section -->
 <h2 align="center" style="color:#a259e6;">📊 Stats & Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gl3nnnn&theme=gruvbox&no-frame=true&column=4&title=Stars,Followers,Commit,PullRequest,Issues&margin-w=10" height="145">
+ 
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Gl3nnnn&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=a259e6&icon_color=ffffff&text_color=fff" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gl3nnnn&theme=radical&hide_border=true&background=00000000&stroke=a259e6&ring=fff&fire=a259e6" height="165" />
