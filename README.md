@@ -49,10 +49,7 @@
 <!-- Stats -->
 <h2 align="center" style="color:#A259E6;">📊 Neural Stats</h2>
 
-<p align="center">
-  <strong>📈 Core Stats</strong><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Gl3nnnn&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=00000000&title_color=A259E6&icon_color=A259E6&text_color=ffffff" height="170" />
-</p>
+
 
 <p align="center">
   <strong>🔥 Streak Fire</strong><br>
