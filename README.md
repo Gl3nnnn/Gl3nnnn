@@ -46,8 +46,8 @@
 
 ---
 
-<!-- Stats (NOW WITH ICONS + LABELS + CACHE FIX) -->
-<h2 align="center" style="color:#A259E6;">📊 Neural Stats & Trophies</h2>
+<!-- Stats -->
+<h2 align="center" style="color:#A259E6;">📊 Neural Stats</h2>
 
 <p align="center">
   <strong>📈 Core Stats</strong><br>
@@ -59,14 +59,15 @@
   <img src="https://streak-stats.demolab.com/?user=Gl3nnnn&theme=radical&hide_border=true&background=00000000&stroke=A259E6&ring=A259E6&fire=FF2DBE" height="170" />
 </p>
 
-<p align="center">
-  <strong>🧠 Top Languages</strong><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gl3nnnn&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=A259E6&text_color=ffffff&v=1" />
-</p>
+---
 
+<!-- Active Missions (Your Real Projects) -->
+<h2 align="center" style="color:#A259E6;">🚀 Active Missions</h2>
 <p align="center">
-  <strong>🏆 Trophies</strong><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Gl3nnnn&theme=radical&no-frame=true&column=4&margin-w=15&v=1" alt="Trophies" />
+  <a href="https://github.com/Gl3nnnn/simplecalculator"><img src="https://img.shields.io/badge/SimpleCalculator-8e44ad?style=for-the-badge&logo=python&logoColor=fff" /></a>
+  <a href="https://github.com/Gl3nnnn/SimpleStudentManager"><img src="https://img.shields.io/badge/StudentManager-8e44ad?style=for-the-badge&logo=python&logoColor=fff" /></a>
+  <a href="https://github.com/Gl3nnnn/SimpleAssistant"><img src="https://img.shields.io/badge/SimpleAssistant-8e44ad?style=for-the-badge&logo=python&logoColor=fff" /></a>
+  <a href="https://github.com/Gl3nnnn/Flower"><img src="https://img.shields.io/badge/Flower-4a235a?style=for-the-badge&logo=css3&logoColor=fff" /></a>
 </p>
 
 ---
