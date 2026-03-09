@@ -46,20 +46,27 @@
 
 ---
 
-<!-- Stats -->
+<!-- Stats (NOW WITH ICONS + LABELS + CACHE FIX) -->
 <h2 align="center" style="color:#A259E6;">📊 Neural Stats & Trophies</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gl3nnnn&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=A259E6&icon_color=A259E6&text_color=ffffff" height="170" />
+  <strong>📈 Core Stats</strong><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gl3nnnn&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=00000000&title_color=A259E6&icon_color=A259E6&text_color=ffffff" height="170" />
+</p>
+
+<p align="center">
+  <strong>🔥 Streak Fire</strong><br>
   <img src="https://streak-stats.demolab.com/?user=Gl3nnnn&theme=radical&hide_border=true&background=00000000&stroke=A259E6&ring=A259E6&fire=FF2DBE" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gl3nnnn&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=A259E6&text_color=ffffff" />
+  <strong>🧠 Top Languages</strong><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gl3nnnn&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=A259E6&text_color=ffffff&v=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gl3nnnn&theme=radical&no-frame=true&column=4&margin-w=15" alt="Trophies" />
+  <strong>🏆 Trophies</strong><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Gl3nnnn&theme=radical&no-frame=true&column=4&margin-w=15&v=1" alt="Trophies" />
 </p>
 
 ---
