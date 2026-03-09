@@ -9,7 +9,7 @@
 ---
 
 <!-- Whoami Section -->
-<h2 align="center" style="color:#a259e6;">whoami</h2>
+
 <p align="center">
   <b>Hi, I'm Glenn Patrick Cabansag</b> <br>
   <img src="https://img.shields.io/badge/Iloilo%20City%2C%20PH-6C3483?style=flat-square&logo=google-maps&logoColor=white" />
