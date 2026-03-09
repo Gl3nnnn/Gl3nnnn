@@ -1,6 +1,6 @@
-<!-- Violet Cyberpunk Dev Profile README for Gl3nnnn — 2026 Edition -->
+<!-- Violet Cyberpunk Dev Profile README for Gl3nnnn — Fixed 2026 Edition -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Gl3nnnn%20%7C%20Neon%20Code%20Sorcerer%20%F0%9F%AA%84;Holographic%20Full%20Stack%20Architect;Glitching%20Bugs%20%26%20Raiding%20Realms;Violet%20%23A259E6%20%E2%9C%95%20Cyan%20%26%20Magenta%20Accents&font=Fira%20Code&center=true&width=780&height=65&color=A259E6&vCenter=true&size=31&duration=3200" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Gl3nnnn%20%7C%20Neon%20Code%20Sorcerer%20%F0%9F%AA%84;Holographic%20Full%20Stack%20Architect;Glitching%20Bugs%20%26%20Raiding%20Realms;Violet%20%23A259E6%20%E2%9C%95%20Cyan%20%26%20Magenta&font=Fira%20Code&center=true&width=780&height=65&color=A259E6&vCenter=true&size=30&duration=3200" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 <!-- Hero -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/Gl3nnnn" width="160" height="160" style="border-radius:50%; border:6px solid #A259E6; box-shadow: 0 0 40px #A259E6, 0 0 80px #FF2DBE;" alt="Gl3nnnn" />
+  <img src="https://avatars.githubusercontent.com/Gl3nnnn?v=4" width="160" height="160" style="border-radius:50%; border:6px solid #A259E6; box-shadow: 0 0 40px #A259E6, 0 0 80px #FF2DBE;" alt="Gl3nnnn" />
 </p>
 
 <p align="center">
@@ -25,8 +25,8 @@
   <i>
   Living in the violet grid.<br>
   Building systems, breaking bugs, and raiding neon-lit realms.<br>
-  Python • JavaScript • Java • Cloud • React<br>
-  <strong>Always shipping. Always glitching. Always in violet + cyan.</strong>
+  <strong>Python • JavaScript • Java • Cloud • React</strong><br>
+  Always shipping. Always glitching. Always in violet + cyan.
   </i>
 </p>
 
@@ -36,27 +36,12 @@
 <h2 align="center" style="color:#A259E6;">🛠️ Tech Arsenal 2077</h2>
 
 <p align="center">
-  <strong>Languages</strong><br>
   <img src="https://img.shields.io/badge/Python-8e44ad?style=for-the-badge&logo=python&logoColor=fff" />
   <img src="https://img.shields.io/badge/JavaScript-9b59b6?style=for-the-badge&logo=javascript&logoColor=fff" />
   <img src="https://img.shields.io/badge/Java-7d3c98?style=for-the-badge&logo=java&logoColor=fff" />
-</p>
-
-<p align="center">
-  <strong>Frontend & Holographics</strong><br>
   <img src="https://img.shields.io/badge/React-6c3483?style=for-the-badge&logo=react&logoColor=fff" />
-  <img src="https://img.shields.io/badge/HTML5-512e5f?style=for-the-badge&logo=html5&logoColor=fff" />
-  <img src="https://img.shields.io/badge/CSS-4a235a?style=for-the-badge&logo=css3&logoColor=fff" />
-</p>
-
-<p align="center">
-  <strong>Cloud & Grid Tools</strong><br>
-  <img src="https://img.shields.io/badge/Git-a259e6?style=for-the-badge&logo=git&logoColor=fff" />
-  <img src="https://img.shields.io/badge/VSCode-6c3483?style=for-the-badge&logo=visual-studio-code&logoColor=fff" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=ffb3ff" />
   <img src="https://img.shields.io/badge/Docker-512e5f?style=for-the-badge&logo=docker&logoColor=a259e6" />
-  <!-- New 2026 accent -->
-  <img src="https://img.shields.io/badge/Neon%20Stack-FF2DBE?style=for-the-badge&logo=vercel&logoColor=000" />
 </p>
 
 ---
@@ -66,7 +51,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gl3nnnn&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=A259E6&icon_color=A259E6&text_color=ffffff" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gl3nnnn&theme=radical&hide_border=true&background=00000000&stroke=A259E6&ring=A259E6&fire=FF2DBE" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=Gl3nnnn&theme=radical&hide_border=true&background=00000000&stroke=A259E6&ring=A259E6&fire=FF2DBE" height="170" />
 </p>
 
 <p align="center">
@@ -74,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gl3nnnn&theme=radical&no-frame=true&column=4&margin-w=15&title_color=FF2DBE" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Gl3nnnn&theme=radical&no-frame=true&column=4&margin-w=15" alt="Trophies" />
 </p>
 
 ---
@@ -82,26 +67,16 @@
 <!-- Connect -->
 <h2 align="center" style="color:#A259E6;">🌐 Connect in the Grid</h2>
 <p align="center">
-  <a href="mailto:patrickcabansag5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-A259E6?style=for-the-badge&logo=gmail&logoColor=fff" />
-  </a>
-  <a href="https://www.linkedin.com/in/glenpatrick/">
-    <img src="https://img.shields.io/badge/LinkedIn-6c3483?style=for-the-badge&logo=linkedin&logoColor=fff" />
-  </a>
-  <a href="https://www.facebook.com/Gl3nQt/">
-    <img src="https://img.shields.io/badge/Facebook-8e44ad?style=for-the-badge&logo=facebook&logoColor=fff" />
-  </a>
-  <!-- New holographic accent -->
-  <a href="https://github.com/Gl3nnnn">
-    <img src="https://img.shields.io/badge/Neon%20GitHub-00F0FF?style=for-the-badge&logo=github&logoColor=000" />
-  </a>
+  <a href="mailto:patrickcabansag5@gmail.com"><img src="https://img.shields.io/badge/Email-A259E6?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
+  <a href="https://www.linkedin.com/in/glenpatrick/"><img src="https://img.shields.io/badge/LinkedIn-6c3483?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
+  <a href="https://www.facebook.com/Gl3nQt/"><img src="https://img.shields.io/badge/Facebook-8e44ad?style=for-the-badge&logo=facebook&logoColor=fff" /></a>
 </p>
 
 ---
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://github.com/Gl3nnnn/Gl3nnnn/blob/main/aa.gif" width="360" alt="Cyber Hacking Animation"/>
+  <img src="https://raw.githubusercontent.com/Gl3nnnn/Gl3nnnn/main/aa.gif" width="360" alt="Cyber Hacking Animation"/>
 </p>
 
 <p align="center">
