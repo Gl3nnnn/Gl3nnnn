@@ -68,9 +68,7 @@
   </a>
   <img src="https://img.shields.io/github/followers/Gl3nnnn?color=a259e6&label=GitHub%20Followers&style=for-the-badge" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gl3nnnn&color=a259e6&style=flat-square&label=Profile+Hits" />
-</p>
+
 
 ---
 
